@@ -12,6 +12,6 @@
 <br>
 <br>
 <br>
-<img src="https://github.com/fernandochaggas/Projeto-Random/assets/160587888/f2b6af40-e528-4c74-888d-391b1f66b9a5">
+<img src="https://github.com/fernandochaggas/Projeto-Random/assets/160587888/4ef25cfc-a969-45db-8ebb-c68ef1d32037">
 
 
